@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD_Assessment", "TDD_Assessment.csproj", "{AADB99FA-934D-4EFD-BAB1-DD910C88B748}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AADB99FA-934D-4EFD-BAB1-DD910C88B748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AADB99FA-934D-4EFD-BAB1-DD910C88B748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AADB99FA-934D-4EFD-BAB1-DD910C88B748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AADB99FA-934D-4EFD-BAB1-DD910C88B748}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EABD0FF3-4DEA-4777-9F5F-879F48C9FE8C}
+	EndGlobalSection
+EndGlobal
